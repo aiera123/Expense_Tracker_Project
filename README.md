@@ -1,21 +1,22 @@
-Expense Tracker
+**Expense Tracker**
 
-A simple and user-friendly Expense Tracker application that helps users record daily expenses, categorize spending, and monitor their financial habits. This project is built for learning and improving personal finance management through clean UI and organized data.
-Features
+It is a simple and user-friendly Expense Tracker application that helps users record daily expenses, categorize spending, and monitor their financial habits. This project is built for learning and improving personal finance management through clean UI and organized data.
 
-Add, edit, and delete expenses
+**Features**
 
-Categorize expenses (Food, Travel, Shopping, Bills, etc.)
+- Add, edit, and delete expenses
 
-View total spending
+- Categorize expenses (Food, Travel, Shopping, Bills, etc.)
 
-Monthly and daily summaries
+- View total spending
 
-Simple and responsive UI
+- Monthly and daily summaries
 
-Stores data locally (add your storage method here: localStorage / SQLite / Firebase / MySQL)
+- Simple and responsive UI
 
-🛠️ Tech Stack
+- Stores data locally (add your storage method here: localStorage / SQLite / Firebase / MySQL)
+
+**🛠️ Tech Stack**
 
 Frontend: HTML, CSS, JavaScript
 
